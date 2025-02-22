@@ -1,0 +1,230 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Brinjal",
+            "desc": "Brinjal is grown worldwide for its edible fruit. Most commonly purple, the spongy, absorbent fruit is used in several cuisines. Typically used as a vegetable in cooking, it is a berry by botanical definition. Raw eggplant is 92% water, 6% carbohydrates, 1% protein, and has negligible fat (table). It provides low amounts of essential nutrients, with only manganese having a moderate percentage (11%) of the Daily Value.",
+             "price": 40,
+            "color": "#33505a",
+            "image": "assets/img/Brinjal.png"
+        },
+       
+        {
+            "id": 2,
+            "name": "Green Beans",
+            "desc": "Green beans are young, unripe fruits of various cultivars of the common bean, although immature or young pods of the runner bean, yardlong bean , and hyacinth bean are used in a similar way.Raw green beans are 90% water, 7% carbohydrates, 2% protein, and contain negligible fat (table). In a 100 gram (3.5 oz) reference amount, raw green beans supply 31 calories and are a moderate source (range 10-19% of the Daily Value) of vitamin C, vitamin K, vitamin B6, and manganese (table). Other micronutrients are in low supply.",
+            "price": 50,
+            "color": "#33505a",
+            "image": "assets/img/Beans.png"
+        },
+        {
+            "id": 3,
+            "name": "Beetroot",
+            "desc": "Beetroot is the taproot portion of a beet plant. Raw beetroot is 88% water, 10% carbohydrates, 2% protein, and less than 1% fat (see table). In a 100-gram (3+1⁄2-ounce) amount providing 180 kilojoules (43 kilocalories) of food energy, raw beetroot is a rich source (27% of the Daily Value - DV) of folate and a moderate source (16% DV) of manganese, with other nutrients having insignificant content A clinical trial review reported that consumption of beetroot juice modestly reduced systolic blood pressure but not diastolic blood pressure.",
+            "price": 60,
+            "color": "#33505a",
+            "image": "assets/img/Beatroot.png"
+        },
+        {
+            "id": 4,
+            "name": "Brocolli",
+            "desc": "Broccoli is an edible green plant in the cabbage family whose large flowering head, stalk and small associated leaves are eaten as a vegetable. A 100 gram reference serving of raw broccoli provides 34 calories and is a rich source (20% or higher of the Daily Value, DV) of vitamin C (107% DV) and vitamin K (97% DV). Raw broccoli also contains moderate amounts (10–19% DV) of several B vitamins and the dietary mineral manganese, whereas other micronutrients are low in content (less than 10% DV). Raw broccoli is 89% water, 7% carbohydrates, 3% protein, and contains negligible fat.",
+            "price": 60,
+            "color": "#33505a",
+            "image": "assets/img/Brocolli.png"
+        },
+        {
+            "id": 5,
+            "name": "Cabbage",
+            "desc": "Cabbage, comprising several cultivars of Brassica oleracea, is a leafy green, red (purple), or white (pale green) biennial plant grown as an annual vegetable crop for its dense-leaved heads. Raw cabbage is 92% water, 6% carbohydrates, 1% protein, and contains negligible fat (table). In a 100 gram reference amount, raw cabbage is a rich source of vitamin C and vitamin K, containing 44% and 72%, respectively, of the Daily Value (DV).Cabbage is also a moderate source (10–19% DV) of vitamin B6 and folate, with no other nutrients having significant content per 100-gram serving.",
+            "price": 40,
+            "color": "#33505a",
+            "image": "assets/img/Cabbage.png"
+        },
+        {
+            "id": 6,
+            "name": "Capsicum",
+            "desc": "Capsicum is a genus of flowering plants in the nightshade family Solanaceae, native to the Americas, cultivated worldwide for their chili pepper or bell pepper fruit. Capsicum not only contains high amounts of fibre, but it contains high amounts of micro-nutrients that are extremely beneficial to your body’s function. Capsicum is extremely high in vitamin C and covers about 213% of your daily recommended intake. Vitamin C is essential for many processes in the body including immune function, wound healing and the synthesis of collagen. In addition to vitamin C, capsicum is also high in vitamin A, comprising 93% of your daily recommended intake. Vitamin A is vital for immune support, reproduction and vision strength. Red and orange peppers are especially high in carotenoids, a form of vitamin A.",
+            "price": 40,
+            "color": "#33505a",
+            "image": "assets/img/Capsicum.png"
+        },
+        {
+            "id": 7,
+            "name": "Carrot",
+            "desc": "Carrot is a root vegetable, typically orange in color, though purple, black, red, white, and yellow cultivars exist,all of which are domesticated forms of the wild carrot. Raw carrots are 88% water, 9% carbohydrates, 0.9% protein, 2.8% dietary fiber, 1% ash and 0.2% fat.Carrot dietary fiber comprises mostly cellulose, with smaller proportions of hemicellulose, lignin and starch. Free sugars in carrot include sucrose, glucose, and fructose.",
+            "price": 50,
+            "color": "#33505a",
+            "image": "assets/img/Carrot.png"
+        },
+        {
+            "id": 8,
+            "name": "Cauliflower",
+            "desc": "Cauliflower is one of several vegetables in the species Brassica oleracea in the genus Brassica, which is in the Brassicaceae (or mustard) family. It is an annual plant that reproduces by seed. Raw cauliflower is 92% water, 5% carbohydrates, 2% protein, and contains negligible fat . A 100-gram (3+1⁄2-ounce) reference amount of raw cauliflower provides 104 kilojoules (25 kilocalories) of food energy, and has a high content (20% or more of the Daily Value, DV) of vitamin C (58% DV) and moderate levels of several B vitamins and vitamin K (13–15% DV; table). Contents of dietary minerals are low (7% DV or less).",
+            "price": 50,
+            "color": "#33505a",
+            "image": "assets/img/Cauliflower.png"
+        },
+        {
+            "id": 9,
+            "name": "Coriander",
+            "desc": "Coriander fresh leaves and the dried seeds (which are both an herb and a spice) are the parts most traditionally used in cooking. Raw coriander leaves are 92% water, 4% carbohydrates, 2% protein, and less than 1% fat. The nutritional profile of coriander seeds is different from the fresh stems or leaves. In a 100-gram (3+1⁄2 oz) reference amount, leaves are particularly rich in vitamin A, vitamin C, and vitamin K, with moderate content of dietary minerals. Although seeds generally have lower vitamin content, they do provide significant amounts of dietary fiber, calcium, selenium, iron, magnesium, and manganese.",
+            "price": 100,
+            "color": "#33505a",
+            "image": "assets/img/Coriander.png"
+        },
+        {
+            "id": 10,
+            "name": "Corn",
+            "desc": "The leafy stalk of the plant produces pollen inflorescences and separate ovuliferous inflorescences called ears that when fertilized yield kernels or seeds, which are fruits. Raw, yellow, sweet maize kernels are composed of 76% water, 19% carbohydrates, 3% protein, and 1% fat. In a 100-gram serving, maize kernels provide 86 calories and are a good source (10–19% of the Daily Value) of the B vitamins, thiamin, niacin (but see Pellagra warning below), pantothenic acid (B5) and folate (right table for raw, uncooked kernels, USDA Nutrient Database). In moderate amounts, they also supply dietary fiber and the essential minerals, magnesium and phosphorus whereas other nutrients are in low amounts.",
+            "price": 30,
+            "color": "#33505a",
+            "image": "assets/img/Corn.png"
+        },
+        {
+            "id": 11,
+            "name": "Cucumber",
+            "desc": "Cucumber is a widely-cultivated creeping vine plant in the Cucurbitaceae family that bears usually cylindrical fruits, which are used as vegetables. Raw cucumber (with peel) is 95% water, 4% carbohydrates, 1% protein, and contains negligible fat. A 100-gram (3+1⁄2-ounce) reference serving provides 67 kilojoules (16 kilocalories) of food energy. It has a low content of micronutrients: it is notable only for vitamin K, at 16% of the Daily Value",
+            "price": 40,
+            "color": "#33505a",
+            "image": "assets/img/Cucumber.png"
+        },
+        {
+            "id": 12,
+            "name": "Drumstick",
+            "desc": " Drum stick or horseradish tree is a tall slender plant grown for it greens, flowers and nutritious pods. It is a very commonly used vegetable in Indian household. The leaves are the most nutritious part of the plant. They are cooked and used like spinach. Drum stick leaves are dried and crushed into powder used in soups and sauces. The immature seed pods or drum sticks are added in sambar or kurma.The seeds are taken from the pods and are sometimes eaten separately like peas or roasted like nuts. Oil extracted from mature seeds has a potential as a biofuel. It is widely acclaimed that drumstick leaves have more Vitamin A than carrot; more calcium than milk and more iron than spinach.",
+            "price": 60,
+            "color": "#33505a",
+            "image": "assets/img/Drumstick.png"
+        },
+        {
+            "id": 13,
+            "name": "Garlic",
+            "desc": "Garlic is a species of bulbous flowering plant in the genus Allium. Its close relatives include the onion, shallot, leek, chive, Welsh onion and Chinese onion. In the typical serving size of 1–3 cloves (3–9 grams), garlic provides no significant nutritional value, with the content of all essential nutrients below 10% of the Daily Value (DV). When expressed per 100 grams, garlic contains several nutrients in rich amounts (20% or more of the DV), including vitamins B6 and C, and the dietary minerals manganese and phosphorus. Per 100 gram serving, garlic is also a moderate source (10–19% DV) of certain B vitamins, including thiamin and pantothenic acid, as well as the dietary minerals calcium, iron, and zinc",
+            "price": 200,
+            "color": "#33505a",
+            "image": "assets/img/Garlic.png"
+        },
+        {
+            "id": 14,
+            "name": "Green Chilli",
+            "desc": "Green chillies are hollow, and the pith and seeds are the hottest part. Green chillies have a different flavour to other coloured chillies. Chilli heat is related to capsaicin content and measured in Scoville units. Capsaicin is the chilli component that irritates your skin and eyes, but it also has medicinal benefits, including analgesic properties.Green chiles are mostly water; however, they also provide some protein and carbohydrates. A 1/2 cup serving of raw green chile peppers provides 1.5 grams of protein, 0.15 grams of fat, 7.1 grams of carbohydrates and 1.1 gram of fiber. The National Academies' Institute of Medicine recommends adults consume between 46 and 56 grams of protein daily and 25 to 38 grams of dietary fiber. Green chile peppers are an excellent source of vitamin C.",
+            "price": 60,
+            "color": "#33505a",
+            "image": "assets/img/Green_Chilli.png"
+        },
+        {
+            "id": 15,
+            "name": "Green Onion",
+            "desc": "The term green onion is usually used interchangeably with spring onion and scallion. All are onions that don't have a large bulb, either because they don't grow that way or because they are harvested before the bulb forms. Green onions deliver a lot of the flavor of mature bulb onions, with a little less of the bite. And the green leaves are edible, which offers some different nutrients from bulb onions. Nutritionally, green onions have a combination of the benefits of onions and leafy greens like spinach or chard. They are an excellent source of vitamin K (one medium green onion provides 34% of adequate intake for women) as well as a good source of vitamin A, vitamin C, and folate.",
+            "price": 40,
+            "color": "#33505a",
+            "image": "assets/img/Green_Onion.png"
+        },
+        {
+            "id": 16,
+            "name": "Bitter Gourd",
+            "desc": "Bitter Gourd is generally consumed cooked in the green or early yellowing stage. The young shoots and leaves of the bitter melon may also be eaten as greens. The fruit is very bitter raw and can be soaked in cold water and drained to remove some of those strong flavours. Bitter gourd contains a high amount of Phosphorus, which removes phlegm, constipation, and prevents other digestive problems in the elderly. It helps in the proper digestion of food and increases the appetite. Bitter gourd works like magic for asthmatic patients. Bitter gourd is also an excellent medicinal food for elders suffering from gastric issues. Bitter gourd also prevents gastric problems and indigestion. Drinking bitter gourd juice makes the liver healthy and excludes all related liver ailments. Results can be seen in a few days, majorly in a week from its intake daily. It is also beneficial, meanwhile, jaundice.",
+            "price": 50,
+            "color": "#33505a",
+            "image": "assets/img/Karela.png"
+        },
+        {
+            "id": 17,
+            "name": "Ladies Finger",
+            "desc": "Ladies Finger is a flowering plant in the mallow family. It has edible green seed pods. Raw okra is 90% water, 2% protein, 7% carbohydrates and contains negligible fat. In a 100 gram reference amount, raw okra is a rich source (20% or more of the Daily Value, DV) of dietary fiber, vitamin C, and vitamin K, with moderate contents of thiamin, folate and magnesium.",
+            "price": 40,
+            "color": "#33505a",
+            "image": "assets/img/Lady_Finger.png"
+        },
+        {
+            "id": 18,
+            "name": "Lemon",
+            "desc": "The lemon (Citrus limon) is a species of small evergreen trees in the flowering plant family Rutaceae. The tree's ellipsoidal yellow fruit is used for culinary and non-culinary purposes throughout the world, primarily for its juice, which has both culinary and cleaning uses.The pulp and rind are also used in cooking and baking. The juice of the lemon is about 5% to 6% citric acid, with a pH of around 2.2, giving it a sour taste. Lemon is a rich source of vitamin C, providing 64% of the Daily Value in a 100 g reference amount. Other essential nutrients are low in content.",
+            "price": 160,
+            "color": "#33505a",
+            "image": "assets/img/Lemon.png"
+        },
+        {
+            "id": 19,
+            "name": "Mushroom",
+            "desc": "A mushroom or toadstool is the fleshy, spore-bearing fruiting body of a fungus, typically produced above ground, on soil, or on its food source. Raw brown mushrooms are 92% water, 4% carbohydrates, 2% protein and less than 1% fat. In a 100 gram (3.5 ounce) amount, raw mushrooms provide 22 calories and are a rich source (20% or more of the Daily Value, DV) of B vitamins, such as riboflavin, niacin and pantothenic acid, selenium (37% DV) and copper (25% DV), and a moderate source (10-19% DV) of phosphorus, zinc and potassium. They have minimal or no vitamin C and sodium content.",
+            "price": 150,
+            "color": "#33505a",
+            "image": "assets/img/Mushroom.png"
+        },
+        {
+            "id": 20,
+            "name": "Sponge Gourd",
+            "desc": "The Sponge gourd, also called the Luffa or Loofah gourd, is a member of the Curcurbitaceae (cucumber) family. The name Sponge gourd generally refers to the fruit of two species –L. cylindrica, which is smooth-skinned with faint ridge lines; and L. acutangula, which has prominent ridges and is known as Angled gourd. Sponge gourd is loaded with nutrients such as dietary fiber, vitamin C, vitamin A, riboflavin, zinc, thiamine, iron and magnesium. The Sponge gourd fruit has been found to have antioxidant, antibacterial and antifungal properties.",
+            "price": 40,
+            "color": "#33505a",
+            "image": "assets/img/Nenua.png"
+        },
+        {
+            "id": 21,
+            "name": "Spinach",
+            "desc": "Spinach is a leafy green flowering plant. Its leaves are a common edible vegetable consumed either fresh, or after storage using preservation techniques by canning, freezing, or dehydration. It may be eaten cooked or raw, and the taste differs considerably; the high oxalate content may be reduced by steaming. Raw spinach is 91% water, 4% carbohydrates, 3% protein, and contains negligible fat. In a 100 g (3.5 oz) serving providing only 23 calories, spinach has a high nutritional value, especially when fresh, frozen, steamed, or quickly boiled. It is a rich source (20% or more of the Daily Value, DV) of vitamin A, vitamin C, vitamin K, magnesium, manganese, iron and folate. Spinach is a moderate source (10-19% of DV) of the B vitamins, riboflavin and vitamin B6, vitamin E, calcium, potassium, and dietary fiber",
+            "price": 60,
+            "color": "#33505a",
+            "image": "assets/img/Palak.png"
+        },
+        {
+            "id": 22,
+            "name": "Pointed Gourd",
+            "desc": "Pointed Gourds are green with white or no stripes. Size can vary from small and round to thick and long — 2 to 6 inches (5 to 15 cm). It thrives well under a hot to moderately warm and humid climate. Pointed gourd is a good source of vitamins and minerals. It is a good source of carbohydrates, vitamin A, and vitamin C. It also contains major nutrients and trace elements (magnesium, potassium, copper, sulfur, and chlorine) which are needed in small quantities, for playing essential roles in human physiology. 9.0 mg Mg, 2.6 mg Na, 83.0 mg K, 1.1 mg Cu and 17 mg S per 100 g edible part.",
+            "price": 60,
+            "color": "#33505a",
+            "image": "assets/img/Parval.png"
+        },
+        {
+            "id": 23,
+            "name": "Pea",
+            "desc": "The pea is most commonly the small spherical seed or the seed-pod of the pod fruit Pisum sativum. Each pod contains several peas, which can be green or yellow. Raw peas are loaded with vitamins and minerals. They are an excellent source of vitamins C and K. Some of the vitamin C is lost when peas are cooked, however. Green peas are also a very good source of vitamin A (in the form of beta-carotene), thiamine, and folate. They contain lesser but significant amounts of niacin, vitamin B6, and riboflavin (vitamin B2). A small amount of healthy fat eaten at the same time as peas will enhance the absorption of fat-soluble vitamins, such as vitamins A and K.",
+            "price": 50,
+            "color": "#33505a",
+            "image": "assets/img/Pea.png"
+        },
+        {
+            "id": 24,
+            "name": "Potato",
+            "desc": "The potato is a starchy tuber of the plant Solanum tuberosum and is a root vegetable.Potato plants are herbaceous perennials that grow about 60 cm (24 in) high, depending on variety, with the leaves dying back after flowering, fruiting and tuber formation. They bear white, pink, red, blue, or purple flowers with yellow stamens. Raw potato is 79% water, 17% carbohydrates (88% is starch), 2% protein, and contains negligible fat. In a 100-gram (3+1⁄2-ounce) portion, raw potato provides 322 kilojoules (77 kilocalories) of food energy and is a rich source of vitamin B6 and vitamin C (23% and 24% of the Daily Value, respectively), with no other vitamins or minerals in significant amount.",
+            "price": 16,
+            "color": "#33505a",
+            "image": "assets/img/Potato.png"
+        },
+        {
+            "id": 25,
+            "name": "Sem Phali",
+            "desc": "The hyacinth bean’s plant is annual or short-lived perennial, twining or trailing herb, with a thick stem which is about 6 meters long. The plant can grow between 10 to 15 feet in height.The flowers are purple or white in color and grow on well-drained soil. The fruit of hyacinth bean is a broad scimitar and smooth pods which is bright purple to pale green in color. The pods are 4 to 5 cms long. Each pod usually contains 4-6 seeds, round to oval and 1 cm long. Hyacinth bean is very low in saturated fat, cholesterol and sodium. It is a very good source of protein, phosphorus, potassium, zinc and copper. It is also a good source of thiamin, magnesium and manganese. Generally, it contains 111.13% of iron, 73.56% of copper, 50.27% of zinc, magnesium which is 149%, phosphorus which is 78%, potassium which is 74%, sodium which is 2%, manganese which is 165% and selenium which is 25%. ",
+            "price": 60,
+            "color": "#33505a",
+            "image": "assets/img/Seam.jpg"
+        },
+        {
+            "id": 26,
+            "name": "Tomato",
+            "desc": "Tomatoes are a significant source of umami flavor.It is consumed in diverse ways: raw or cooked, and in many dishes, sauces, salads, and drinks. A tomato is 95% water, contains 4% carbohydrates and less than 1% each of fat and protein. 100 g of raw tomatoes supply 18 kilocalories and are a moderate source of vitamin C (17% of the Daily Value), but otherwise have no significant nutrient content",
+            "price": 40,
+            "color": "#33505a",
+            "image": "assets/img/Tomato.png"
+        },
+        {
+            "id": 27,
+            "name": "Jackfruit",
+            "desc": "The jackfruit also known as jack tree,is a species of tree in the fig, mulberry, and breadfruit family.One cup of sliced jackfruit offers 157 calories, 1 gram (g) fat, 38 g carbohydrates, 2.8 g protein, and 2.5 g fiber. Whole jackfruit is a source of other key nutrients. “Jackfruit’s flesh is a good source of vitamin C and its seeds are a source of protein, potassium, calcium, and iron,” Taub-Dix says. “And unlike other fruits, jackfruit contains B vitamins, including vitamin B6, niacin, riboflavin, and folic acid, which is especially important for a healthy nervous system.",
+            "price": 40,
+            "color": "#33505a",
+            "image": "assets/img/Jackfruit.png"
+        },
+        {
+            "id": 28,
+            "name": "Bottle Gourd",
+            "desc": "Bottle gourd can vary in size shape and length depending on how it is grown and when it is harvested. It can be short and round, uniformly cylindrical, curved, bulbous, or extremely long and thin. Its skin is most often smooth though there are some varieties that are covered in fine hairs. Its coloring can vary from a light green or chartreuse to dark green. Bottle gourd is low in calories and provides small amounts of vitamin C, folate, calcium, iron, zinc and B vitamins. It is also rich in fiber and is believed to help aid in healthy digestion. The juice of Bottle gourd is touted for its vitamin C and zinc content as well as for its ability to potentially regulate blood sugar levels. In India the juice is popularly consumed as a health benefiting beverage",
+            "price": 40,
+            "color": "#33505a",
+            "image": "assets/img/Bottle_Gourd.png"
+        }
+         
+    ]
+}

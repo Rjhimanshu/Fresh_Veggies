@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "169388457291",
+    "project_id": "fresh-veggies-b859e",
+    "storage_bucket": "fresh-veggies-b859e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169388457291:android:abd8fcfa73093b22393cce",
+        "android_client_info": {
+          "package_name": "com.example.fresh_veggies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169388457291-8dp3lc955r61pr517863od24lm16h0hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa2xUkfbMduKe3Qkhlpag9P5JQPbq67PI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169388457291-8dp3lc955r61pr517863od24lm16h0hb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
